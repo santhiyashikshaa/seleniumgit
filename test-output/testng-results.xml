@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-03T14:53:46 IST" name="Default suite" finished-at="2023-01-03T14:54:00 IST" duration-ms="14500">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T14:53:46 IST" name="Default test" finished-at="2023-01-03T14:54:00 IST" duration-ms="14500">
+      <class name="demo.gidhub.Github">
+        <test-method is-config="true" signature="test()[pri:0, instance:demo.gidhub.Github@54a7079e]" started-at="2023-01-03T14:53:46 IST" name="test" finished-at="2023-01-03T14:53:52 IST" duration-ms="6180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="one()[pri:0, instance:demo.gidhub.Github@54a7079e]" started-at="2023-01-03T14:53:52 IST" name="one" finished-at="2023-01-03T14:54:00 IST" duration-ms="7838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+      </class> <!-- demo.gidhub.Github -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
